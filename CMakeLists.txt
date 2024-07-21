@@ -133,7 +133,7 @@ include(LibraryFeatures)
 
 
 # math.h/libm portability
-find_package(CMath REQUIRED)
+#find_package(CMath REQUIRED)
 
 # Release support
 include(Release)
